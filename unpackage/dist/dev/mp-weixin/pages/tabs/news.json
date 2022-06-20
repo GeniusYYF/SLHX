@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "myp-navbar": "/mypUI/myp-navbar/myp-navbar",
+    "myp-search": "/mypUI/myp-search/myp-search",
+    "myp-tabs-h": "/mypUI/myp-tabs-h/myp-tabs-h",
+    "myp-button": "/mypUI/myp-button/myp-button",
+    "news-list": "/pages/tabs/components/news/newsList"
+  }
+}

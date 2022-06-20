@@ -1,0 +1,13 @@
+{
+  "disableScroll": true,
+  "usingComponents": {
+    "myp-tabbar": "/mypUI/myp-tabbar/myp-tabbar",
+    "myp-toast": "/mypUI/myp-toast/myp-toast",
+    "news-tab": "/pages/tabs/news",
+    "train-tab": "/pages/tabs/train",
+    "push-tab": "/pages/tabs/push",
+    "community-tab": "/pages/tabs/community",
+    "mine-tab": "/pages/tabs/mine",
+    "filter-pop": "/pages/tabs/components/news/filterPop"
+  }
+}

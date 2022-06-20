@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  },
+  "component": true
+}

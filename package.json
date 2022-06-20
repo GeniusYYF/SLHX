@@ -1,0 +1,96 @@
+{
+	"id": "myp-ui",
+  "name": "myp-ui",
+  "version": "2.9.10",
+  "description": "**第一个高效且强悍的nvue开源组件库。做最好、最顺手的nvue组件库**",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/wakaryry/mypUI",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakaryry/mypUI/issues"
+  },
+  "homepage": "https://github.com/wakaryry/mypUI#readme",
+  "devDependencies": {
+    "vue-docgen-cli": "^4.31.1"
+},
+"displayName": "mypUI开源nvue组件库 兼容vue",
+"keywords": [
+    "mypUI",
+    "tabbar",
+    "抽屉",
+    "tabs",
+    "swiper"
+],
+"engines": {
+    "HBuilderX": "^3.1.20"
+},
+"dcloudext": {
+    "category": [
+        "前端页面模板",
+        "uni-app前端项目模板"
+    ],
+    "sale": {
+        "regular": {
+            "price": "0.00"
+        },
+        "sourcecode": {
+            "price": "0.00"
+        }
+    },
+    "contact": {
+        "qq": ""
+    },
+    "declaration": {
+        "ads": "无",
+        "data": "无",
+        "permissions": "无"
+    },
+    "npmurl": "https://www.npmjs.com/package/@mypui/myp-ui"
+},
+"uni_modules": {
+    "platforms": {
+        "cloud": {
+            "tcb": "y",
+            "aliyun": "y"
+        },
+        "client": {
+            "App": {
+                "app-vue": "y",
+                "app-nvue": "y"
+            },
+            "H5-mobile": {
+                "Safari": "y",
+                "Android Browser": "y",
+                "微信浏览器(Android)": "y",
+                "QQ浏览器(Android)": "y"
+            },
+            "H5-pc": {
+                "Chrome": "y",
+                "IE": "y",
+                "Edge": "y",
+                "Firefox": "y",
+                "Safari": "y"
+            },
+            "小程序": {
+                "微信": "y",
+                "阿里": "y",
+                "百度": "y",
+                "字节跳动": "y",
+                "QQ": "y"
+            },
+            "快应用": {
+                "华为": "y",
+                "联盟": "y"
+            },
+            "Vue": {
+                "vue2": "y",
+                "vue3": "u"
+            }
+        }
+    }
+}
+}

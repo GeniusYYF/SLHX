@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u-tag": "/uni_modules/uview-ui/components/u-tag/u-tag",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button"
+  },
+  "component": true
+}

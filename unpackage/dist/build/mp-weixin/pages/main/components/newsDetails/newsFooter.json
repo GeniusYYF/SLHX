@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-row": "/uni_modules/uview-ui/components/u-row/u-row",
+    "u-col": "/uni_modules/uview-ui/components/u-col/u-col",
+    "u-icon": "/uni_modules/uview-ui/components/u-icon/u-icon",
+    "u-badge": "/uni_modules/uview-ui/components/u-badge/u-badge",
+    "u-safe-bottom": "/uni_modules/uview-ui/components/u-safe-bottom/u-safe-bottom",
+    "comment-poup": "/pages/main/components/newsDetails/newsCommentPoup"
+  }
+}

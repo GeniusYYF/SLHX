@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "myp-waterfall": "/mypUI/myp-waterfall/myp-waterfall",
+    "news-item": "/pages/tabs/components/news/newsItem"
+  },
+  "component": true
+}

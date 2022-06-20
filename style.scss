@@ -1,0 +1,14 @@
+.btn-space{
+	width: 16rpx;
+}
+
+.flex-row{
+	display: flex;
+	flex-direction: row !important;
+	width: 100%;
+}
+
+.auto-height{
+	height: 1px;
+	flex-grow: 1 !important;
+}

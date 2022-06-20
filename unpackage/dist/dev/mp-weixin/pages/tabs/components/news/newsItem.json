@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "myp-list-cell": "/mypUI/myp-list-cell/myp-list-cell",
+    "myp-icon": "/custom/myp-icon/myp-icon",
+    "myp-title": "/mypUI/myp-title/myp-title"
+  },
+  "component": true
+}

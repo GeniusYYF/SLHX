@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "myp-title": "/mypUI/myp-title/myp-title",
+    "myp-cell": "/mypUI/myp-cell/myp-cell"
+  },
+  "component": true
+}

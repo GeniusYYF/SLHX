@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "u-navbar": "/uni_modules/uview-ui/components/u-navbar/u-navbar",
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "u-line": "/uni_modules/uview-ui/components/u-line/u-line",
+    "news-author-row": "/pages/main/components/newsDetails/newsAuthorRow",
+    "news-content": "/pages/main/components/newsDetails/newsContent",
+    "news-comment": "/pages/main/components/newsDetails/newsComment",
+    "news-footer": "/pages/main/components/newsDetails/newsFooter",
+    "news-comment-details": "/pages/main/components/newsDetails/newsCommentDetails"
+  }
+}

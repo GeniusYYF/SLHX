@@ -1,0 +1,10 @@
+.md.data-v-43c2fe30 {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 750rpx;
+  background-color: #FFFFFF;
+}
+

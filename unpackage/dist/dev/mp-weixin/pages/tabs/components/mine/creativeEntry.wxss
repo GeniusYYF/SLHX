@@ -1,0 +1,13 @@
+.ce.data-v-4058c0c8 {
+  width: 750rpx;
+  background-color: #FFFFFF;
+}
+.ce-grid.data-v-4058c0c8 {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 750rpx;
+}
+

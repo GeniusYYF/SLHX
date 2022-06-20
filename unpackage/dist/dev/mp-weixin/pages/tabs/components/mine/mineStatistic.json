@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "myp-item": "/mypUI/myp-item/myp-item"
+  },
+  "component": true
+}

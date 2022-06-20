@@ -1,0 +1,29 @@
+.row.data-v-6d573fd1 {
+  display: flex;
+  width: 100vw;
+  padding: 16rpx;
+  background-color: white;
+  border-bottom: 1px solid #eeeeee;
+}
+.row.data-v-6d573fd1 .myp-icon-box {
+  height: 100%;
+}
+.row.data-v-6d573fd1 .myp-icon-box .myp-image,
+.row.data-v-6d573fd1 .myp-icon-box ._div {
+  background-size: 100% 100% !important;
+}
+.row.data-v-6d573fd1 .row-title .myp-flex-row {
+  width: 100%;
+}
+.row.data-v-6d573fd1 .row-title .myp-flex-row .myp-size- {
+  width: 100%;
+}
+.row.data-v-6d573fd1 .row-title .myp-flex-row .myp-size- ._span {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  width: 100%;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+

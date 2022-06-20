@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/main/index",
+    "pages/main/newsDetails",
+    "pages/push/push"
+  ],
+  "subPackages": [],
+  "window": {
+    "pageOrientation": "portrait",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {}
+}

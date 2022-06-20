@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "myp-icon": "/custom/myp-icon/myp-icon"
+  },
+  "component": true
+}

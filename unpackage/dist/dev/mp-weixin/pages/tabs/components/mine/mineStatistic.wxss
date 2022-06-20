@@ -1,0 +1,18 @@
+.ms.data-v-ae74cffc {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 750rpx;
+  height: 140rpx;
+  background-color: #FFFFFF;
+}
+.ms-split.data-v-ae74cffc {
+  width: 1px;
+  height: 66rpx;
+  background-color: #F7F5F5;
+  margin-left: 50rpx;
+  margin-right: 50rpx;
+}
+

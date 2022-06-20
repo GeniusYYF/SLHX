@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore",
+    "u-modal": "/uni_modules/uview-ui/components/u-modal/u-modal",
+    "news-item": "/pages/main/components/news/newsItem"
+  }
+}

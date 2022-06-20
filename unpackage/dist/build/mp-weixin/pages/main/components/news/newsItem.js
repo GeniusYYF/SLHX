@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/main/components/news/newsItem"],{"6da1":function(n,t,e){"use strict";e.r(t);var i=e("db53"),c=e.n(i);for(var o in i)"default"!==o&&function(n){e.d(t,n,(function(){return i[n]}))}(o);t["default"]=c.a},"7c41":function(n,t,e){"use strict";e.d(t,"b",(function(){return c})),e.d(t,"c",(function(){return o})),e.d(t,"a",(function(){return i}));var i={uIcon:function(){return Promise.all([e.e("common/vendor"),e.e("uni_modules/uview-ui/components/u-icon/u-icon")]).then(e.bind(null,"009c"))}},c=function(){var n=this,t=n.$createElement;n._self._c},o=[]},9910:function(n,t,e){"use strict";var i=e("e50c"),c=e.n(i);c.a},d841:function(n,t,e){"use strict";e.r(t);var i=e("7c41"),c=e("6da1");for(var o in c)"default"!==o&&function(n){e.d(t,n,(function(){return c[n]}))}(o);e("9910");var u,a=e("f0c5"),r=Object(a["a"])(c["default"],i["b"],i["c"],!1,null,"2ed3aae4",null,!1,i["a"],u);t["default"]=r.exports},db53:function(n,t,e){"use strict";(function(n){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var e={components:{},props:["item"],data:function(){return{}},computed:{getRemark:function(){return"".concat(this.item.ref," 评论(").concat(this.item.commentNum,") ").concat(this.item.time)},getImgsLength:function(){var n;return(null===(n=this.item.imgs)||void 0===n?void 0:n.length)||0}},watch:{},created:function(){},mounted:function(){},methods:{close:function(n){this.$emit("close",n)},enterNewsDetails:function(){n.navigateTo({url:"/pages/main/newsDetails?newsItem="+JSON.stringify(encodeURIComponent(this.item))})}}};t.default=e}).call(this,e("543d")["default"])},e50c:function(n,t,e){}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/main/components/news/newsItem-create-component',
+    {
+        'pages/main/components/news/newsItem-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("d841"))
+        })
+    },
+    [['pages/main/components/news/newsItem-create-component']]
+]);

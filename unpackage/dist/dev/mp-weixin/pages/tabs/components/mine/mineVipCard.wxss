@@ -1,0 +1,43 @@
+.mvc.data-v-5ea9b77f {
+  position: relative;
+  width: 750rpx;
+}
+.mvc-bg.data-v-5ea9b77f {
+  background-image: linear-gradient(to top, rgba(255, 144, 144, 0.2), #FFFFFF);
+  height: 40rpx;
+}
+.mvc-bg-cover.data-v-5ea9b77f {
+  position: absolute;
+  left: 24rpx;
+  right: 24rpx;
+  bottom: 0;
+  height: 120rpx;
+  background-color: #FFFFFF;
+}
+.mvc-vip.data-v-5ea9b77f {
+  position: absolute;
+  left: 24rpx;
+  right: 24rpx;
+  bottom: 0;
+  height: 120rpx;
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 32rpx;
+  padding-right: 36rpx;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-top-width: 1px;
+  border-top-left-radius: 8rpx;
+  border-top-right-radius: 8rpx;
+  border-left-color: rgba(255, 144, 144, 0.4);
+  border-top-color: rgba(255, 144, 144, 0.4);
+  border-right-color: rgba(255, 144, 144, 0.4);
+  border-left-style: solid;
+  border-top-style: solid;
+  border-right-style: solid;
+  background-color: rgba(255, 144, 144, 0.2);
+}
+

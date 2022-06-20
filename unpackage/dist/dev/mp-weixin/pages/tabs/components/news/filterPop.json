@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "myp-popup-always": "/mypUI/myp-popup-always/myp-popup-always",
+    "myp-navbar": "/mypUI/myp-navbar/myp-navbar",
+    "myp-list": "/mypUI/myp-list/myp-list",
+    "myp-list-cell": "/mypUI/myp-list-cell/myp-list-cell",
+    "myp-title": "/mypUI/myp-title/myp-title",
+    "myp-tag": "/mypUI/myp-tag/myp-tag"
+  },
+  "component": true
+}

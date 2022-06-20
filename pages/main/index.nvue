@@ -1,0 +1,72 @@
+<template>
+	<view :style="style">
+		<view class="auto-height">
+			<news-tab v-if="value==='news'" style="height: 100%;"></news-tab>
+			<train-tab v-if="value==='train'"></train-tab>
+			<!-- <push-tab v-if="value==='push'"></push-tab> -->
+			<community-tab v-if="value==='community'"></community-tab>
+			<mine-tab v-if="value==='mine'"></mine-tab>
+		</view>
+
+		<view>
+			<u-tabbar :value="value" :border="true" activeColor="#d81e06" inactiveColor="" @change="click">
+				<u-tabbar-item v-for="tabbar in tabbars" :text="tabbar.text" :name="tabbar.name" :dot="!!tabbar.dot"
+					:badge="tabbar.badge">
+					<image slot="active-icon" :style="tabbar.iconStyle" :src="tabbar.icon"></image>
+					<image slot="inactive-icon" :style="tabbar.inactiveIconStyle" :src="tabbar.inactiveIcon"></image>
+				</u-tabbar-item>
+			</u-tabbar>
+		</view>
+	</view>
+</template>
+
+<script>
+	import newsTab from './news.vue'
+	import trainTab from './train.vue'
+	import communityTab from './community.vue'
+	import mineTab from './mine.vue'
+
+	import data from "@/mock/data.js"
+
+	export default {
+		components: {
+			newsTab,
+			trainTab,
+			communityTab,
+			mineTab,
+		},
+		mixins: [],
+		data() {
+			return {
+				style: "",
+				value: "news",
+
+				tabbars: data.main.tabbars
+			}
+		},
+		onLoad(option) {
+			let that = this
+			uni.getSystemInfo({
+				success(res) {
+					that.style = `display: flex;height:${res.windowHeight}px;`
+				}
+			})
+		},
+		methods: {
+			click(name) {
+				console.log(name);
+				if (name === "mine") return uni.$u.toast('请您先登录')
+				else if (name === "push") {
+					uni.navigateTo({
+						url: "/pages/push/push"
+					})
+				} else {
+					this.value = name
+				}
+			},
+		}
+	}
+</script>
+
+<style lang="scss" scoped>
+</style>

@@ -1,0 +1,15 @@
+{
+  "component": true,
+  "usingComponents": {
+    "myp-navbar": "/mypUI/myp-navbar/myp-navbar",
+    "myp-list": "/mypUI/myp-list/myp-list",
+    "myp-list-cell": "/mypUI/myp-list-cell/myp-list-cell",
+    "mine-header": "/pages/tabs/components/mine/mineHeader",
+    "mine-statistic": "/pages/tabs/components/mine/mineStatistic",
+    "mine-vip-card": "/pages/tabs/components/mine/mineVipCard",
+    "mine-data": "/pages/tabs/components/mine/mineData",
+    "creative-entry": "/pages/tabs/components/mine/creativeEntry",
+    "recommend-entry": "/pages/tabs/components/mine/recommendEntry",
+    "more-entry": "/pages/tabs/components/mine/moreEntry"
+  }
+}

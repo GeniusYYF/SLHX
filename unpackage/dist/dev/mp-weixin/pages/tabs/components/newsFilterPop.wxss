@@ -1,0 +1,8 @@
+.ap-tags.data-v-1235afb5 {
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.ap-tags-item.data-v-1235afb5 {
+  margin-bottom: 20rpx;
+}
+

@@ -1,0 +1,22 @@
+.water-item.data-v-775cb7dc {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20rpx;
+}
+.water-item-0.data-v-775cb7dc {
+  background-color: #8F9CFF;
+  height: 400rpx;
+}
+.water-item-1.data-v-775cb7dc {
+  background-color: #FFD666;
+  height: 280rpx;
+}
+.water-item-2.data-v-775cb7dc {
+  background-color: #FF9090;
+  height: 340rpx;
+}
+.water-item-3.data-v-775cb7dc {
+  background-color: #8FDAFF;
+  height: 320rpx;
+}
+

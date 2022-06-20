@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "myp-title": "/mypUI/myp-title/myp-title",
+    "myp-button": "/mypUI/myp-button/myp-button",
+    "myp-badge": "/mypUI/myp-badge/myp-badge",
+    "myp-item": "/mypUI/myp-item/myp-item"
+  },
+  "component": true
+}

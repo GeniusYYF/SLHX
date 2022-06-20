@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "myp-title": "/mypUI/myp-title/myp-title",
+    "myp-grid-static": "/mypUI/myp-grid-static/myp-grid-static"
+  },
+  "component": true
+}
